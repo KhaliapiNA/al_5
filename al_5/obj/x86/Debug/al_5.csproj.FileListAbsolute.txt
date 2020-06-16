@@ -1,0 +1,7 @@
+C:\Documents and Settings\adm\Рабочий стол\al_5\al_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adm\Рабочий стол\al_5\al_5\bin\Debug\al_5.exe
+C:\Documents and Settings\adm\Рабочий стол\al_5\al_5\bin\Debug\al_5.pdb
+C:\Documents and Settings\adm\Рабочий стол\al_5\al_5\obj\x86\Debug\al_5.exe
+C:\Documents and Settings\adm\Рабочий стол\al_5\al_5\obj\x86\Debug\al_5.pdb
+D:\github to\лабки\al_5\al_5\obj\x86\Debug\al_5.exe
+D:\github to\лабки\al_5\al_5\obj\x86\Debug\al_5.pdb
